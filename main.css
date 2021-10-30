@@ -39,7 +39,7 @@ a {
 #title-main {
     font-size: 45px;
     display: inline-block;
-        margin-bottom: 2px;
+    margin-bottom: 2px;
 }
 
 #title-main-typer {
@@ -108,3 +108,20 @@ a {
     display: none;
 }
 
+#ai {
+    border: 0px;
+    background-color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 1px;
+    padding-left: 2px;
+}
+
+#title-btn {
+    border: 0px;
+    background-color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+}
