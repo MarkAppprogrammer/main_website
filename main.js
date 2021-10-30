@@ -22,8 +22,7 @@ function showLogin() {
 
         if (homeClicked == true) {
             console.log("all clicked up")
-            console.log(document.getElementById("login").style.display)
-            document.getElementById(login).style.display = 'block';
+            document.getElementById("login").style.display = 'block';
         }
     }
     else {
