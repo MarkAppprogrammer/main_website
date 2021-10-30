@@ -61,3 +61,22 @@ a {
 #profiles-div {
     text-align: center;
 }
+
+#profiles {
+    margin-top: 100px;
+}
+
+.profiles-item {
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
+    width: fit-content;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+#mark-a {
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
